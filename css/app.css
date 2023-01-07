@@ -19,7 +19,7 @@ h3 {
     margin: 0 0 2rem 0;
 }
 h1 {
-    font-size: 4rem;
+    font-size: 4rem; /*comentario en linea 22*/
 }
 @media (min-width: 768px) {
     h1 {
